@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="EMVIA Study">
+  <defs>
+    <linearGradient id="markGradient" x1="0" y1="0" x2="96" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#001F83"/>
+      <stop offset="1" stop-color="#BA0000"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="26" fill="url(#markGradient)"/>
+  <g transform="translate(24 24) scale(0.1671)">
+    <path d="M286.664 287.259H0V0.198521H286.664V42.6819H42.4834V111.172H286.664V153.456H42.4834V244.776H286.664V287.259Z" fill="#FFFFFF"/>
+  </g>
+</svg>
